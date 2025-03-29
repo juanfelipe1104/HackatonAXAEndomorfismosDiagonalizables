@@ -1,0 +1,335 @@
+[33mcommit cd8224fc6ee248b27b1feba28da062478bb23fa3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 16:31:56 2025 +0100
+
+    Revert "Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos"
+    
+    This reverts commit b3610be37cf34ac7211fa5195502e8e9352cb223, reversing
+    changes made to 1845c2e03af60a930e2318950d24fba80fbb7f0e.
+
+[33mcommit b3610be37cf34ac7211fa5195502e8e9352cb223[m
+Merge: 1845c2e c4e8175
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 16:23:29 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit 1845c2e03af60a930e2318950d24fba80fbb7f0e[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 16:23:17 2025 +0100
+
+    si
+
+[33mcommit c4e8175e0571051c9fff264b1305670498bc66fa[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 16:16:28 2025 +0100
+
+    busqueda ya lleva a fichero con info
+
+[33mcommit f4297073d72739a0fa6625a22f74fa65ddbab2d4[m
+Author: Destructor04 <juanfelipe1104@gmail.com>
+Date:   Sat Mar 29 15:59:54 2025 +0100
+
+    SQL y Python
+
+[33mcommit 873fc6023e564ab9d8ea988922df3a9159fd8da5[m
+Author: DanielPeraltaMAIS <Danielperaltallamas@gmail.com>
+Date:   Sat Mar 29 15:46:22 2025 +0100
+
+    pepe
+
+[33mcommit 88ca8525c30876a48d655bd5920a5f435f6e9156[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 15:32:55 2025 +0100
+
+    chatbot
+
+[33mcommit f3817f4117889b4b4eda225b2dde959d70461917[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 14:58:08 2025 +0100
+
+    busqueda grande que no funciona
+
+[33mcommit 4cd54bf338aa6e38acf1b990a44c4035f6bb1c0f[m
+Merge: b587055 5b1a1e9
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 14:46:24 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit b5870556aa781969c8f38ca842431e157e7ffdf1[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 14:46:15 2025 +0100
+
+    aaa
+
+[33mcommit 5b1a1e943228ca64f8f08e8992845973b9ddc9fd[m
+Author: DanielPeraltaMAIS <Danielperaltallamas@gmail.com>
+Date:   Sat Mar 29 14:43:22 2025 +0100
+
+    script343444
+
+[33mcommit e69dfba0365f4c77650cd031e5587934dd26aacf[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 14:38:18 2025 +0100
+
+    cambiado csv
+
+[33mcommit a5a5f5cb06b61539d327022498d7211930d05f7a[m
+Author: DanielPeraltaMAIS <Danielperaltallamas@gmail.com>
+Date:   Sat Mar 29 14:33:14 2025 +0100
+
+    nuevoScript2
+
+[33mcommit 91158713fdf2b632f30dbaf986126f37f3333aad[m
+Author: Destructor04 <juanfelipe1104@gmail.com>
+Date:   Sat Mar 29 14:22:47 2025 +0100
+
+    nodejs
+
+[33mcommit 96bdc9bc9840795caa5cfe92baf2cf2ee1314dac[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 14:14:28 2025 +0100
+
+    error arreglado busqueda
+
+[33mcommit f266bfa05134ef1bab8b22b983152240a46f6ead[m
+Merge: 02ea82a f1f17ee
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 14:04:19 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit 02ea82a01de6c6c5bcf85f767d01cd0b638153ad[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 14:04:18 2025 +0100
+
+    aaa
+
+[33mcommit f1f17ee8094fad251585378aeddf68a04cd18708[m
+Author: DanielPeraltaMAIS <Danielperaltallamas@gmail.com>
+Date:   Sat Mar 29 13:51:40 2025 +0100
+
+    nuevoScriptDB
+
+[33mcommit 80fdf428ef990b8d354c29605136965d49333834[m
+Merge: e34f994 b07807f
+Author: Alex <ach.castellanos@gmail.com>
+Date:   Sat Mar 29 13:46:34 2025 +0100
+
+    css
+
+[33mcommit e34f9948e2a936c4ad80e61a3e964e319d8b8d37[m
+Author: Alex <ach.castellanos@gmail.com>
+Date:   Sat Mar 29 13:45:29 2025 +0100
+
+    css
+
+[33mcommit b07807f0143b9e04d77ddfce3c8e1dc3e6820b6a[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 13:41:57 2025 +0100
+
+    cambio en busqueda
+
+[33mcommit 166b1337d7cc4c8db71a9b7371ba33dc02d1a43d[m
+Author: Alex <ach.castellanos@gmail.com>
+Date:   Sat Mar 29 13:32:21 2025 +0100
+
+    css
+
+[33mcommit 3df01e98ab613403e88dc612496cb0c57eb0ebc4[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 13:31:22 2025 +0100
+
+    prueba
+
+[33mcommit 39b5e9cd8d1585aec5c11c576b06a03df0a1ac91[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 13:22:26 2025 +0100
+
+    busqueda que ya funciona
+
+[33mcommit 567a615c81297e6b0625464a45e9922999af3b34[m
+Author: Alex <ach.castellanos@gmail.com>
+Date:   Sat Mar 29 13:07:14 2025 +0100
+
+    css
+
+[33mcommit 1134fdb843506670fb9f0ccb60391881a2a69e87[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 13:03:11 2025 +0100
+
+    Create aemet.ipynb
+
+[33mcommit c36888c35118a20c9fde20627d89cfb4c134cccb[m
+Merge: 6afeefb 5b17f63
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 12:44:26 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit 6afeefb444e5c8e2609580834d757e2463af9384[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 12:44:16 2025 +0100
+
+    limiteRespuesta
+
+[33mcommit 5b17f635b91ef4e89baa2709fa1879bbd1309a35[m
+Merge: bffc60c 82854b5
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 12:40:09 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit bffc60c96c6fca21d4faf86d6590ef65c2145526[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 12:40:03 2025 +0100
+
+    codigo que todavia no funciona
+
+[33mcommit 36a201d5d7200347a2983b78fa03339d77e469a5[m
+Merge: 02a3c06 82854b5
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 12:39:12 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit 02a3c0672df5e6a77d7f4ad1868a28275f5b3359[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 12:39:01 2025 +0100
+
+    valores_infoContacto
+
+[33mcommit 82854b575b578204cb78a3725ced2467b347eef2[m
+Merge: 527761f 7a5163a
+Author: Alex <ach.castellanos@gmail.com>
+Date:   Sat Mar 29 12:28:20 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit 527761f34aa427cc2be040b56b8f974f0ebbf2e7[m
+Author: Alex <ach.castellanos@gmail.com>
+Date:   Sat Mar 29 12:28:18 2025 +0100
+
+    html
+
+[33mcommit 7a5163ab5389656c6d39b11095a7b991029da0ee[m
+Merge: e21a032 9bc88d9
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 12:25:30 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit e21a032525421e628c7eac951a79322e62644c31[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 12:25:11 2025 +0100
+
+    mejora
+
+[33mcommit 9bc88d97ceddc065433c3902b359eabd95dbba71[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 12:24:52 2025 +0100
+
+    cambios sql
+
+[33mcommit 48856d6797989be828ce2ece285b3e7e91dd0eed[m
+Merge: 272130a 6d22e7b
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 12:23:58 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit 272130a78e32f6a2d2e8b343676a198480b4030b[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 12:23:57 2025 +0100
+
+    cambios
+
+[33mcommit 6d22e7bf6e69c9268a58b4d231a331b7896bad67[m
+Author: Destructor04 <juanfelipe1104@gmail.com>
+Date:   Sat Mar 29 12:12:03 2025 +0100
+
+    Image added
+
+[33mcommit 27df4f42cae2a6dc98832a20afc492a4c21376f7[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 11:54:11 2025 +0100
+
+    funcionaPorAhora
+
+[33mcommit 1627904b3b10881070edda68b1811e6d7935b805[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 11:50:36 2025 +0100
+
+    carpetaBot
+
+[33mcommit b0ace8289c6bda673176b85461ac566384ce7c6e[m
+Merge: 7a79c44 922bddb
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 11:46:16 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit 7a79c445b06d4d3f7b4bcbe1b82ca8776d8031e9[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 11:46:08 2025 +0100
+
+    html
+
+[33mcommit 922bddbf25106dd34ef38271202187d1282700ce[m
+Author: Destructor04 <juanfelipe1104@gmail.com>
+Date:   Sat Mar 29 11:45:37 2025 +0100
+
+    Update mapa
+
+[33mcommit 6b58c1fa5699ad6347f694786cf9feb7b79ff966[m
+Merge: ec0596e 9498cd8
+Author: DanielPeraltaMAIS <Danielperaltallamas@gmail.com>
+Date:   Sat Mar 29 11:44:20 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit ec0596e41d08ac0cca9e9e20dbe8cceff960536a[m
+Author: DanielPeraltaMAIS <Danielperaltallamas@gmail.com>
+Date:   Sat Mar 29 11:44:18 2025 +0100
+
+    crear base
+
+[33mcommit 9498cd89f2204a5252f9420cfcf2e2d772a5eeca[m
+Merge: dbe3a84 b3e4257
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 10:59:36 2025 +0100
+
+    Merge branch 'main' of https://github.com/Garfa9909/HackathonAXAEndomorfismos
+
+[33mcommit dbe3a84fc1d37ba993f661acc9b14e0f10a023e0[m
+Author: Wen <paulawen7@gmail.com>
+Date:   Sat Mar 29 10:59:06 2025 +0100
+
+    Create chatbot.js
+
+[33mcommit b3e42577a7b40a083a95a8064ca2aa54c263bbf3[m
+Author: DanielPeraltaMAIS <Danielperaltallamas@gmail.com>
+Date:   Sat Mar 29 10:57:57 2025 +0100
+
+    mapa
+    
+    juan descargate geopandas
+
+[33mcommit 73be06437307cbdd741ba82156421c011a909b44[m
+Author: Destructor04 <juanfelipe1104@gmail.com>
+Date:   Sat Mar 29 10:53:28 2025 +0100
+
+    Python
+
+[33mcommit 291cb8ec28d72f2562ef8019f04e0e6b975f80c6[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 10:50:33 2025 +0100
+
+    prueba
+
+[33mcommit 8a1256d87d7491cb223f4623061cbed962d45658[m
+Author: Garfa9909 <rafabarafa@gmail.com>
+Date:   Sat Mar 29 10:48:32 2025 +0100
+
+    commit inicial
